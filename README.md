@@ -27,12 +27,13 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Thomas Santiago Casco
 
-Me gusta ...
+Me gusta La programacion mobile y el desarrollo web!
 
-Me dedico a / Trabajo de ...
+Me dedico a ser data entry en la empresa IMSA s.a
 
 Les dejo una imagen mía 
 
-![subir archivo de imagen](imagen.jpg)
+![WhatsApp Image 2023-06-26 at 5 46 03 PM](https://github.com/obj1-unahur-2023s2/presentacionpersonal-ThomasCasco/assets/79951563/81a095f3-0f61-463c-9531-40c926350d5d)
+
