@@ -35,5 +35,6 @@ Me dedico a ser data entry en la empresa IMSA s.a
 
 Les dejo una imagen mía 
 
-![WhatsApp Image 2023-06-26 at 5 46 03 PM](https://github.com/obj1-unahur-2023s2/presentacionpersonal-ThomasCasco/assets/79951563/81a095f3-0f61-463c-9531-40c926350d5d)
+![WhatsApp Image 2023-06-26 at 5 46 03 PM (2) (1)](https://github.com/obj1-unahur-2023s2/presentacionpersonal-ThomasCasco/assets/79951563/0c2bb890-2abd-4223-a603-ae12a972031e)
+
 
